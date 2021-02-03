@@ -1,0 +1,52 @@
+﻿Trial,Replicate,NonEmergedEggs,EmergedEggs,TotalLaid,Ultrasound,ExposureType,Stuck,Room,DaysPerSample,Month,TotalToDate,TotalNonEmerged,TotalEmerged,Scaling Factor,TotalToDateScaled,TotalNonEmergedScaled,TotalEmergedScaled
+Control,1,0,0,0,N,None,N,Rearing,13,July,787,665,122,3.462093195,2725,2302,422
+Control,1,0,0,0,N,None,N,NA,1,September,0,0,0,3.462093195,0,0,0
+Control,2,0,0,0,N,None,N,Rearing,13,July,879,596,283,3.462093195,3043,2063,980
+Control,2,0,0,0,N,None,N,NA,1,September,404,404,0,3.462093195,1399,1399,0
+Control,3,0,0,0,N,None,N,NA,6,October,198,196,2,3.462093195,685,679,7
+Control,4,0,0,0,N,None,N,Room 1,5,November,842,842,0,3.462093195,2915,2915,0
+Control,5,0,0,0,N,None,N,Room 1,5,November,407,76,331,3.462093195,1409,263,1146
+Control,6,0,0,0,N,None,N,Rearing,4,July,638,399,239,3.462093195,2209,1381,827
+Control,6,213,49,262,N,None,N,Room 1,99,October,262,213,49,3.462093195,907,737,170
+Control,7,0,0,0,N,None,N,Rearing,2,July,566,89,477,3.462093195,1960,308,1651
+Control,7,0,0,0,N,None,N,Room 2,6,October,310,288,22,3.462093195,1073,997,76
+Control,11,565,8,573,N,None,N,Rearing,7,August,580,572,8,3.462093195,2008,1980,28
+Control,11,0,0,0,N,None,N,Room 1,1,October,649,607,42,3.462093195,2247,2101,145
+Control,13,6,0,6,N,None,N,Rearing,7,August,6,6,0,3.462093195,21,21,0
+Control,16,134,0,134,N,None,N,Rearing,99,September,134,134,0,3.462093195,464,464,0
+Control,17,13,47,60,N,None,N,Rearing,6,October,295,25,270,3.462093195,1021,87,935
+Control,18,0,0,0,N,None,N,Rearing,1,October,63,56,7,3.462093195,218,194,24
+Control,19,320,65,385,N,None,N,Rearing,6,October,559,494,65,3.462093195,1935,1710,225
+Control,19,11,1,12,N,None,N,Room 2,99,September,12,11,1,3.462093195,42,38,3
+Control,20,11,1,12,N,None,N,Room 2,12,May,621,272,349,3.462093195,2150,942,1208
+Control,21,41,0,41,N,None,N,Room 2,5,May,800,298,502,3.462093195,2770,1032,1738
+Control,22,145,0,145,N,None,N,Room 1,5,May,690,513,177,3.462093195,2389,1776,613
+Control,30,0,1,1,N,None,N,Rearing,1,April,253,123,130,3.462093195,876,426,450
+Control,31,48,0,48,N,None,N,Rearing,5,May,731,323,408,3.462093195,2531,1118,1413
+Control,40,152,0,152,N,None,N,Room 2,4,May,703,310,393,3.462093195,2434,1073,1361
+Control,41,90,2,92,N,None,N,Room 1,4,May,713,144,569,3.462093195,2468,499,1970
+Control,105,0,0,0,N,None,N,Rearing,14,October,127,31,96,3.462093195,440,107,332
+Control,106,1,0,1,N,None,N,Rearing,6,October,2,2,0,3.462093195,7,7,0
+Bat Call,1,1,0,1,Y,BatCall,N,NA,7,November,179,103,76,3.462093195,620,357,263
+Bat Call,2,0,0,0,Y,BatCall,N,NA,3,November,628,412,216,3.462093195,2174,1426,748
+Bat Call,5,0,0,0,Y,BatCall,N,NA,7,December,216,111,105,3.462093195,748,384,364
+Bat Call,6,1,0,1,Y,BatCall,N,NA,5,December,346,255,91,3.462093195,1198,883,315
+Bat Call,7,32,0,32,Y,BatCall,N,NA,99,January,113,113,0,3.462093195,391,391,0
+Bat Call,9,2,0,2,Y,BatCall,N,NA,99,January,36,2,34,3.462093195,125,7,118
+Bat Call,10,0,0,0,Y,BatCall,N,Room 2,6,April,639,444,195,3.462093195,2212,1537,675
+Bat Call,11,0,0,0,Y,BatCall,N,Room 1,2,April,423,297,126,3.462093195,1464,1028,436
+Broadband,1,144,0,144,Y,OverExp,N,Room 1,1,April,435,435,0,3.462093195,1506,1506,0
+Broadband,2,3,0,3,Y,OverExp,N,Room 1,99,February,3,0,3,3.462093195,10,0,10
+Broadband,3,0,0,0,Y,OverExp,N,Room 1,99,February,0,0,0,3.462093195,0,0,0
+Broadband,12,49,0,49,Y,OverExp,N,Room 2,3,April,679,556,123,3.462093195,2351,1925,426
+Broadband,13,10,0,10,Y,OverExp,N,Room 1,3,April,323,116,207,3.462093195,1118,402,717
+Broadband,25,34,0,34,Y,OverExp,N,Room 1,4,May,563,447,116,3.462093195,1949,1548,402
+Broadband,26,1,0,1,Y,OverExp,N,Room 1,3,May,424,155,269,3.462093195,1468,537,931
+Broadband,40,2,0,2,Y,OverExp,N,Room 2,4,May,659,659,0,3.462093195,2282,2282,0
+Broadband,50,32,0,32,Y,OverExp,N,Room 1,1,June,493,489,4,3.462093195,1707,1693,14
+Broadband,53,0,0,0,Y,OverExp,N,Room 1,2,July,611,273,338,3.462093195,2115,945,1170
+Broadband,54,0,0,0,Y,OverExp,N,Room 1,1,July,71,20,51,3.462093195,246,69,177
+Broadband,57,56,19,75,N,OverExp,N,Room 1,9,August,583,561,22,3.462093195,2018,1942,76
+Broadband,58,290,37,327,N,OverExp,N,Room 1,9,August,400,301,99,3.462093195,1385,1042,343
+Broadband,105,0,0,0,N,OverExp,N,Room 1,11,October,38,12,26,3.462093195,132,42,90
+Broadband,106,2,0,2,N,OverExp,N,Room 1,8,October,348,215,133,3.462093195,1205,744,460

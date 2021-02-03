@@ -1,0 +1,60 @@
+﻿Trial,Replicate,SpermatophoreNumber,Ultrasound,Month
+Control,0,0,N,April
+Control,1,4,N,June
+Control,1,3,N,October
+Control,2,4,N,July
+Control,2,1,N,September
+Control,2,4,N,October
+Control,3,3,N,July
+Control,3,0,N,September
+Control,4,4,N,July
+Control,4,6,N,October
+Control,5,4,N,October
+Control,6,2,N,July
+Control,6,4,N,October
+Control,7,5,N,July
+Control,11,0,N,August
+Control,12,4,N,August
+Control,13,1,N,August
+Control,13,3,N,July
+Control,14,0,N,August
+Control,17,3,N,October
+Control,18,0,N,October
+Control,19,4,N,October
+Control,20,4,N,May
+Control,21,4,N,May
+Control,30,2,N,April
+Control,31,3,N,May
+Control,40,2,N,May
+Control,41,3,N,May
+Control,106,0,N,October
+Bat Call,1,2,Y,November
+Bat Call,2,3,Y,November
+Bat Call,3,4,Y,November
+Bat Call,4,4,Y,November
+Bat Call,5,3,Y,December
+Bat Call,5,5,Y,December
+Bat Call,7,1,Y,January
+Bat Call,8,0,Y,January
+Bat Call,9,0,Y,January
+Bat Call,10,4,Y,March
+Bat Call,11,3,Y,April
+Bat Call,30,3,Y,May
+Bat Call,60,6,Y,October
+Broadband,1,2,Y,April
+Broadband,1,3,Y,February
+Broadband,13,5,Y,April
+Broadband,25,2,Y,May
+Broadband,26,2,Y,May
+Broadband,40,0,Y,May
+Broadband,50,2,Y,June
+Broadband,51,3,Y,June
+Broadband,52,3,Y,July
+Broadband,53,4,Y,July
+Broadband,54,3,Y,July
+Broadband,55,4,Y,July
+Broadband,56,5,Y,July
+Broadband,57,4,Y,August
+Broadband,58,5,Y,August
+Broadband,105,3,Y,October
+Broadband,106,5,Y,October
